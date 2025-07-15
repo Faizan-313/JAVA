@@ -1,4 +1,4 @@
-public class BinarySearchExample {
+public class BinarySearch {
     public static int binarySearch(int[] arr, int key) {
         int low = 0;
         int high = arr.length - 1;
